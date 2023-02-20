@@ -23,6 +23,7 @@ export default {
   erb: "_f_erb",
   m: "_f_m",
   accdb: "_f_access",
+  jsx: "_f_jsx",
   accdt: "_f_access",
   mdb: "_f_access",
   accda: "_f_access",
